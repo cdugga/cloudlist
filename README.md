@@ -1,4 +1,4 @@
-# CloudList (Golang)
+# CloudList (Go)
 
 `Cloudlist` is a simple command line tool providing commands to fetch resource and pricing information for your AWS GCP & Azure accounts. 
 
